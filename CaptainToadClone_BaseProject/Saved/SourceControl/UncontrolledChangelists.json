@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/jimen/OneDrive/Documentos/GitHub/Practica_CaptainToad/CaptainToadClone_BaseProject/Content/Map.umap",
+				"C:/Users/jimen/OneDrive/Documentos/GitHub/Practica_CaptainToad/CaptainToadClone_BaseProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
